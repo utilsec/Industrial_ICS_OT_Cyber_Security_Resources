@@ -6,7 +6,14 @@ Have suggestions?  Let me know at the following:
     Discord:   UtilSec
     LinkedIn:  Mike Holcomb (linkedin.com/in/mikeholcomb)
 
-Resources
+Certifications
+
 
 Podcasts
 
+Conferences
+
+Books
+
+
+Live OS Distributions
