@@ -10,7 +10,7 @@ Have suggestions?  Let me know at the following:
 | Title | Author(s) |
 | ------------- | ------------- |
 | Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
-| Content Cell  | Content Cell  |
+| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
 
 | --- | --- |
 | Exida  | List all new or modified files |
