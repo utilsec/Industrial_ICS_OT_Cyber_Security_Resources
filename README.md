@@ -12,28 +12,33 @@ Have suggestions?  Let me know at the following:
 | Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
 | Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
 
-| --- | --- |
-| Exida  | List all new or modified files |
-| SANS | Show file differences that haven't been staged |
 
 **Certifications**
-| --- | --- |
+| Title | Main URL |
+| ------------- | ------------- |
 | Exida  | List all new or modified files |
 | SANS | Show file differences that haven't been staged |
 
 **Conferences**
-| --- | --- |
-| S4  | List all new or modified files |
-| SANS ICS Summits | Show file differences that haven't been staged |
+| Conference | Main URL |
+| ------------- | ------------- |
+| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
+| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
+
+**Live OS Distributions**
+| Title | Main URL |
+| ------------- | ------------- |
+| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
+| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
+
+**Podcast**
+| Title | Main URL |
+| ------------- | ------------- |
+| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
+| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
 
 
 
 
-Podcasts
-
-Conferences
 
 
-
-
-Live OS Distributions
