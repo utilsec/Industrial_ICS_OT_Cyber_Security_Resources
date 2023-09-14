@@ -30,7 +30,7 @@ Have suggestions?  Let me know at the following:
 | Title | Main URL |
 | ------------- | ------------- |
 
-**Podcast**
+**Podcasts**
 | Title | Main URL |
 | ------------- | ------------- |
 
