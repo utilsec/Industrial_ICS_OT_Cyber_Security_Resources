@@ -26,6 +26,10 @@ Have suggestions?  Let me know at the following:
 | S4  | https://s4xevents.com/ |
 | SANS ICS Summits  | https://www.sans.org/cyber-security-summit/ |
 
+**Honeypots**
+| Title | Main URL |
+| ------------- | ------------- |
+
 **Live OS Distributions**
 | Title | Main URL |
 | ------------- | ------------- |
@@ -38,6 +42,8 @@ Have suggestions?  Let me know at the following:
 | Title | Main URL |
 | ------------- | ------------- |
 
-
+**Training**
+| Title | Main URL |
+| ------------- | ------------- |
 
 
