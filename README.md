@@ -7,6 +7,11 @@ Have suggestions?  Let me know at the following:
     LinkedIn:  Mike Holcomb (linkedin.com/in/mikeholcomb)
 
 **Books**
+| Title | Author(s) |
+| ------------- | ------------- |
+| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
+| Content Cell  | Content Cell  |
+
 | --- | --- |
 | Exida  | List all new or modified files |
 | SANS | Show file differences that haven't been staged |
