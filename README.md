@@ -37,6 +37,7 @@ Have suggestions?  Let me know at the following:
 **Podcasts**
 | Title | Main URL |
 | ------------- | ------------- |
+| DarkNet Diaries | https://darknetdiaries.com/ |
 
 **Tools**
 | Title | Main URL |
