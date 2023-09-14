@@ -18,26 +18,25 @@ Have suggestions?  Let me know at the following:
 | ------------- | ------------- |
 | Exida  | https://view.forms.app/michaelholcomb/newsletter-signup |
 | SANS | https://www.sans.org/industrial-control-systems-security/ |
+| TÜV Rheinland | https://www.tuv.com/landingpage/en/training-functional-safety-cyber-security/main-navigation/cyber-security/ |
 
 **Conferences**
 | Conference | Main URL |
 | ------------- | ------------- |
-| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
-| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
+| S4  | https://s4xevents.com/ |
+| SANS ICS Summits  | https://www.sans.org/cyber-security-summit/ |
 
 **Live OS Distributions**
 | Title | Main URL |
 | ------------- | ------------- |
-| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
-| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
 
 **Podcast**
 | Title | Main URL |
 | ------------- | ------------- |
-| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions  | Clint E. Bodungen, Bryan L. Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit  |
-| Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition  | Pascal Ackerman  |
 
-
+**Tools**
+| Title | Main URL |
+| ------------- | ------------- |
 
 
 
