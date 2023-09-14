@@ -16,8 +16,8 @@ Have suggestions?  Let me know at the following:
 **Certifications**
 | Title | Main URL |
 | ------------- | ------------- |
-| Exida  | List all new or modified files |
-| SANS | Show file differences that haven't been staged |
+| Exida  | https://view.forms.app/michaelholcomb/newsletter-signup |
+| SANS | https://www.sans.org/industrial-control-systems-security/ |
 
 **Conferences**
 | Conference | Main URL |
