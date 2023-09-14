@@ -6,18 +6,29 @@ Have suggestions?  Let me know at the following:
     Discord:   UtilSec
     LinkedIn:  Mike Holcomb (linkedin.com/in/mikeholcomb)
 
-| Command | Description |
+**Books**
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-Certifications
+| Exida  | List all new or modified files |
+| SANS | Show file differences that haven't been staged |
+
+**Certifications**
+| --- | --- |
+| Exida  | List all new or modified files |
+| SANS | Show file differences that haven't been staged |
+
+**Conferences**
+| --- | --- |
+| S4  | List all new or modified files |
+| SANS ICS Summits | Show file differences that haven't been staged |
+
+
 
 
 Podcasts
 
 Conferences
 
-Books
+
 
 
 Live OS Distributions
